@@ -1,11 +1,11 @@
 # CS3-DS4002
 This repository contains the study, deliverable, data, and reference materials necessary to complete the Case Study.
 
-Important Information
-The two attached PDFs include both the Hook as well as the Rubric to follow the case study.
+Hook and Rubric Documents
+The hook document outlining the case study is the file labeled . The rubric outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continously throughout your completion of the case study to guarantee success on the assignment.
 
 Data
-The necessary data is located in the "DATA" folder and includes both a cleaned dataset to be used for your model as well as the original dataset.
+The image data can be obtained from  linked here. The Materials folder contains several images for various states, but there are more states to choose from on FiveThirtyEight. Additionally, you can find the declination angle (i.e., the numeric representation of the degree of partisan gerrymandering in a state) here, which you will use to verify the results of your image analysis.
 
 Reference Materials
-The "Reference Materials" folder contains helpful resources related to the 
+
