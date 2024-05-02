@@ -11,5 +11,5 @@ The data for this case study is in the DATA folder.
 
 Reference Materials
 
-Materials that should be referenced for this case are in the Reference Materials folder.
+Code as well as materials that should be referenced for this case are in the Reference Materials folder.
 
